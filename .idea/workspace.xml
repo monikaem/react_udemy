@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f574e7-4549-4ad5-b20c-3f7f6d824634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Proj_6_countClicksAndDisplay/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_6_countClicksAndDisplay/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proj_5_show_hide_button/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -80,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610820565436</updated>
       <workItem from="1610820566517" duration="225000" />
-      <workItem from="1611844269650" duration="23249000" />
+      <workItem from="1611844269650" duration="30262000" />
     </task>
     <servers />
   </component>
