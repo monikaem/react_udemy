@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f574e7-4549-4ad5-b20c-3f7f6d824634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Proj_8_Basket/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_8_Basket/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_10_interactiveMenu/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_10_interactiveMenu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_9_Arrays/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_9_Arrays/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,18 +46,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Proj_8_Basket" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Proj_10_interactiveMenu" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Proj_10_interactiveMenu" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Proj_9_Arrays" />
       <recent name="$PROJECT_DIR$/Proj_8_Basket" />
       <recent name="$PROJECT_DIR$/Proj_6_countClicksAndDisplay" />
-      <recent name="$PROJECT_DIR$/Proj_5_show_hide_button" />
-      <recent name="$PROJECT_DIR$/Proj_4_inputText" />
-      <recent name="$PROJECT_DIR$/Proj_3_addSign" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Proj_1_WebsiteComponents" />
@@ -80,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610820565436</updated>
       <workItem from="1610820566517" duration="225000" />
-      <workItem from="1611844269650" duration="34902000" />
+      <workItem from="1611844269650" duration="50507000" />
     </task>
     <servers />
   </component>
