@@ -1,0 +1,31 @@
+.app {
+    background-color: lightpink;
+    width: 50%;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: "Courier New";
+    border: solid 2px mediumpurple;
+    padding: 10px 10px;
+}
+.app div:nth-child(even){
+    background-color: lightcoral;
+}
+select {
+    width: 100px;
+    color: darkblue;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    left: 20px;
+    font-family: "Courier New"
+}
+em {
+    position: relative;
+    left: 25px;
+}
+input {
+    height: 25px;
+    width: 40%;
+    font-size: 22px;
+    font-family: "Courier New"
+}
