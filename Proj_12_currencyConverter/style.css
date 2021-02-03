@@ -11,17 +11,17 @@
     background-color: lightcoral;
 }
 select {
-    width: 100px;
+    width: 150px;
     color: darkblue;
     font-size: 18px;
     text-align: center;
     position: relative;
-    left: 20px;
+    left: 10px;
     font-family: "Courier New"
 }
 em {
     position: relative;
-    left: 25px;
+    left: 15px;
 }
 input {
     height: 25px;

@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f574e7-4549-4ad5-b20c-3f7f6d824634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Proj_12_currencyConverter/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_12_currencyConverter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_13_DrawAFortune/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_13_DrawAFortune/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_13_DrawAFortune/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_14_deleteItemFromList/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_14_deleteItemFromList/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_14_deleteItemFromList/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_buttonExample/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_buttonExample/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/MethodsSequenceExample/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/MethodsSequenceExample/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj_12_currencyConverter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_12_currencyConverter/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,20 +55,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Proj_12_currencyConverter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Proj_12_currencyConverter" />
-      <recent name="$PROJECT_DIR$/Proj_11_forms" />
-      <recent name="$PROJECT_DIR$/Proj_10_interactiveMenu" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Proj_9_Arrays" />
+      <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample" />
+      <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_buttonExample" />
+      <recent name="$PROJECT_DIR$/Proj_15" />
+      <recent name="$PROJECT_DIR$/Proj_14_deleteItemFromList" />
+      <recent name="$PROJECT_DIR$/Proj_13_DrawAFortune" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/MethodsSequenceExample" />
       <recent name="$PROJECT_DIR$/Proj_1_WebsiteComponents" />
     </key>
   </component>
@@ -80,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610820565436</updated>
       <workItem from="1610820566517" duration="225000" />
-      <workItem from="1611844269650" duration="59666000" />
+      <workItem from="1611844269650" duration="80521000" />
     </task>
     <servers />
   </component>

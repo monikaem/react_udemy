@@ -1,0 +1,21 @@
+html {
+    font-size: 20px;
+    font-family: monospace;
+}
+li {
+    width: 40%;
+}
+button {
+    position: relative;
+    left: 5px;
+    background-color: mediumpurple;
+    color: lavender;
+    border: solid 1px rebeccapurple;
+    border-radius: 50%;
+}
+li:nth-child(even) {
+    background-color: lightcyan;
+}
+li:nth-child(odd) {
+    background-color: lavender;
+}

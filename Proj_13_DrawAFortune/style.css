@@ -1,0 +1,39 @@
+html{
+    font-family: Arial;
+}
+.showHideButton {
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+button{
+    background-color: lightcyan;
+    font-size: 20px;
+}
+
+input, .addButton{
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+input {
+    width: 60%;
+    font-size: 30px;
+}
+.addButton {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.displayPanel {
+    background-color: lightsteelblue;
+    color: darkblue;
+    font-size: 50px;
+    width: 60%;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    border: darkblue 2px solid;
+    box-shadow: darkblue 20px 20px 10px;
+}
