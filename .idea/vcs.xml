@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/create_react_app/1-data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/create_react_app/2-fetch-local-json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/create_react_app/3-xmlhttprequest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/create_react_app/4-fetch-click-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/create_react_app/5-fetch-click-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/create_react_app/PogadaApp-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/create_react_app/PogodaApp-v2" vcs="Git" />
   </component>
 </project>

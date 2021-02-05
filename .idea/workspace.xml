@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19f574e7-4549-4ad5-b20c-3f7f6d824634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Proj_13_DrawAFortune/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_13_DrawAFortune/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_13_DrawAFortune/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_14_deleteItemFromList/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_14_deleteItemFromList/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_14_deleteItemFromList/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_buttonExample/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_buttonExample/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/MethodsSequenceExample/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/MethodsSequenceExample/index.html" afterDir="false" />
+    <list default="true" id="19f574e7-4549-4ad5-b20c-3f7f6d824634" name="Default Changelist" comment="Add new files">
+      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_ComponentDidMount_ComponentWillUnmount/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_ComponentDidMount_ComponentWillUnmount/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proj_12_currencyConverter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Proj_12_currencyConverter/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +16,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
+        <option value="tsconfig.json" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,6 +33,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="1nA6Uin4WZI2E680I6XO93SGHjS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,24 +45,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/create_react_app/cra_5_fetch/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/create_react_app/cra_5_fetch/src" />
+      <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_ComponentDidMount_ComponentWillUnmount" />
       <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample" />
       <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_buttonExample" />
       <recent name="$PROJECT_DIR$/Proj_15" />
-      <recent name="$PROJECT_DIR$/Proj_14_deleteItemFromList" />
-      <recent name="$PROJECT_DIR$/Proj_13_DrawAFortune" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/create_react_app/cra_5_fetch/src/components" />
+      <recent name="$PROJECT_DIR$/create_react_app/cra_3_fetch_json/src/components" />
+      <recent name="$PROJECT_DIR$/create_react_app/cra_1/src/components" />
       <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/MethodsSequenceExample" />
       <recent name="$PROJECT_DIR$/Proj_1_WebsiteComponents" />
     </key>
@@ -92,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1610820565436</updated>
       <workItem from="1610820566517" duration="225000" />
-      <workItem from="1611844269650" duration="80521000" />
+      <workItem from="1611844269650" duration="81060000" />
+      <workItem from="1612428451775" duration="31127000" />
     </task>
     <servers />
   </component>
@@ -109,5 +115,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new files" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
