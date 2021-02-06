@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f574e7-4549-4ad5-b20c-3f7f6d824634" name="Default Changelist" comment="Add new files">
-      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_ComponentDidMount_ComponentWillUnmount/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_ComponentDidMount_ComponentWillUnmount/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_react_app/cra_5_fetch/src/components/ButtonFetchUsers.js" beforeDir="false" afterPath="$PROJECT_DIR$/create_react_app/cra_5_fetch/src/components/ButtonFetchUsers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,7 @@
       <updated>1610820565436</updated>
       <workItem from="1610820566517" duration="225000" />
       <workItem from="1611844269650" duration="81060000" />
-      <workItem from="1612428451775" duration="31127000" />
+      <workItem from="1612428451775" duration="38913000" />
     </task>
     <servers />
   </component>

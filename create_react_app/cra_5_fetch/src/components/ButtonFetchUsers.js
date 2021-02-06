@@ -11,5 +11,4 @@ const ButtonFetchUsers = (props) => {
     )
 }
 
-
 export default ButtonFetchUsers;
