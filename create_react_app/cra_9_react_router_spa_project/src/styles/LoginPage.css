@@ -1,0 +1,21 @@
+.login input {
+    margin-bottom: 20px;
+    margin-left: 10px;
+    width: 180px;
+    height: 25px;
+}
+.login button {
+    border: 2px solid black;
+    background-color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: .2s;
+    margin-left: 190px;
+}
+
+
+.login button:hover {
+    color: lightpink;
+    background-color: #222222;
+}
