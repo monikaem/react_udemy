@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="19f574e7-4549-4ad5-b20c-3f7f6d824634" name="Default Changelist" comment="Add new files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/Proj_1_shoppingList_hooks/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/Proj_1_shoppingList_hooks/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/Proj_2_addSign_hooks/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/Proj_2_addSign_hooks/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +17,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="tsconfig.json" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -29,6 +35,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/hooks/cra_hooks_main_project/package.json" />
   </component>
   <component name="ProjectId" id="1nA6Uin4WZI2E680I6XO93SGHjS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,8 +53,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/create_react_app/cra_5_fetch/src" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,29 +67,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/create_react_app/cra_5_fetch/src" />
-      <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_ComponentDidMount_ComponentWillUnmount" />
-      <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_CounterExample" />
-      <recent name="$PROJECT_DIR$/Proj_15_componentLifecycle/Lifecycle_buttonExample" />
-      <recent name="$PROJECT_DIR$/Proj_15" />
+      <recent name="$PROJECT_DIR$/hooks/cra_mobx" />
+      <recent name="$PROJECT_DIR$/hooks/cra_react_redux/src" />
+      <recent name="$PROJECT_DIR$/hooks/cra_use_callback/src" />
+      <recent name="$PROJECT_DIR$/hooks/cra_use_memo/src" />
+      <recent name="$PROJECT_DIR$/hooks/cra_use_reducer_counter/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hooks/cra_hooks_main_project/webpack" />
+      <recent name="$PROJECT_DIR$/hooks/cra_react_redux_practice/src" />
+      <recent name="$PROJECT_DIR$/hooks/cra_react_redux/src" />
       <recent name="$PROJECT_DIR$/create_react_app/cra_9_react_router_spa_project/src/pages" />
       <recent name="$PROJECT_DIR$/create_react_app/cra_9_react_router_spa_project/src/layouts" />
-      <recent name="$PROJECT_DIR$/create_react_app/cra_9_react_router_spa_project/src/styles" />
-      <recent name="$PROJECT_DIR$/create_react_app/cra_7a_todoapp_test/src/components" />
-      <recent name="$PROJECT_DIR$/create_react_app/cra_7_to_do_app/src/components" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Proj_6_countClicksAndDisplay/App.js" working-dir="$PROJECT_DIR$/Proj_6_countClicksAndDisplay">
+    <configuration name="App.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Proj_6_countClicksAndDisplay/App.js" working-dir="$PROJECT_DIR$/Proj_6_countClicksAndDisplay">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.App.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,7 +96,11 @@
       <updated>1610820565436</updated>
       <workItem from="1610820566517" duration="225000" />
       <workItem from="1611844269650" duration="81060000" />
-      <workItem from="1612428451775" duration="94060000" />
+      <workItem from="1612428451775" duration="112382000" />
+      <workItem from="1612970362777" duration="12872000" />
+      <workItem from="1613057061763" duration="54900000" />
+      <workItem from="1613419887981" duration="393000" />
+      <workItem from="1613467153035" duration="10698000" />
     </task>
     <servers />
   </component>
